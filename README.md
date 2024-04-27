@@ -137,5 +137,3 @@
         • Ran food to tables, kept track of customer orders while being processed<br>
         • Banquet set up and support
     </p>
-</body>
-</html>
