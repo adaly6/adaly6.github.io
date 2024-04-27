@@ -95,7 +95,7 @@
         • The script imports a csv file which contains data gathered from Inside Airbnb and outputs charts as well as textual statistics describing Airbnb’s based on location in NYC as well as many other factors.
     </p>
     <p>
-        <strong>Personal Project | Sleeper: NFL Injury Visualization</strong><br>
+        <strong>Personal Project | Sleeper: <a href="andrewdaly.tech/sleeper"> NFL Injury Visualization</a></strong><br>
         • Developed a dynamic web application using React to visualize and track injuries of NFL players, enhancing the understanding and analysis of injury patterns over seasons.<br>
         • Utilized d3-scale for color scaling to visually represent the severity of injuries on a human silhouette, improving immediate visual feedback on injury hotspots.<br>
         • Integrated data from multiple JSON sources (injuries.json and players.json) to provide a comprehensive dataset of player injuries and personal information.<br>
