@@ -1,6 +1,4 @@
-# adaly6.github.io
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>Andrew Daly - Resume</title>
