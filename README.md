@@ -51,7 +51,7 @@
         <img src="https://www.best-masters.com/assets/img/logo_ecole/566.gif" alt="University Logo" width="100">
     </div>
     <p>
-        Phone: (610) 609-9336 | Email: <a href="mailto:adaly2001@gmail.com">adaly2001@gmail.com</a> | Address: 105 Clamar Ave, Havertown, PA
+        Phone: (610) 609-9336 | Email: <a href="mailto:adaly2001@gmail.com">adaly2001@gmail.com</a>
     </p>
 
     <p>
