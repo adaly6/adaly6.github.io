@@ -61,7 +61,7 @@
     <h2>EDUCATION</h2>
     <p>
         The University of Iowa<br>
-        Anticipated Graduation: May 2024<br>
+        Graduation: May 2024<br>
         B.B.A. Business Analytics and Information Systems<br>
         Economics Minor<br>
         Cumulative GPA: 3.76 / 4.0<br>
