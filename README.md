@@ -64,7 +64,7 @@
         Anticipated Graduation: May 2024<br>
         B.B.A. Business Analytics and Information Systems<br>
         Economics Minor<br>
-        Cumulative GPA: 3.76 / 4.0
+        Cumulative GPA: 3.76 / 4.0<br>
         Major GPA: 4.0 / 4.0
     </p>
 
@@ -76,6 +76,18 @@
    
 
     <h2>CLASSWORK PROJECT EXPERIENCE</h2>
+    <p>
+        <strong>Personal Project | Sleeper: <a href="/sleeper"> NFL Injury Visualization</a></strong><br>
+        • Developed a dynamic web application using React to visualize and track injuries of NFL players, enhancing the understanding and analysis of injury patterns over seasons.<br>
+        • Utilized d3-scale for color scaling to visually represent the severity of injuries on a human silhouette, improving immediate visual feedback on injury hotspots.<br>
+        • Integrated data from multiple JSON sources (injuries.json and players.json) to provide a comprehensive dataset of player injuries and personal information.<br>
+        • Implemented a sophisticated search functionality to filter players by name using React's state management, allowing users to interactively select players and view specific injury data.<br>
+        • Created an interactive SVG overlay on a player silhouette to pinpoint injuries using coordinates mapped to body parts, facilitating an intuitive graphical user interface.<br>
+        • Employed lodash for enhanced state handling and performance optimizations, ensuring efficient data manipulation and rendering of components.<br>
+        • Designed a user interface that allows for quick toggling between players and injury details, featuring a real-time updating mechanism to reflect selected data.<br>
+        • Constructed a detailed injury log that displays occurrences, specific injury sites, and game status, offering detailed insights into player readiness and historical injury data.<br>
+        • Applied modern web technologies and frameworks, including CSS for styling and JavaScript for frontend logic, ensuring a responsive and visually appealing user experience.<br>
+    </p>
     <p>
         <strong>Capstone | Automated Decoder Application |</strong> Spring 2024<br>
         • Developed an application to automate VIN information retrieval from the NHTSA website, enhancing data accuracy and processing speed.<br>
@@ -93,18 +105,6 @@
         • Python programming code is used to analyze Airbnb data from New York City. Pandas and Matplotlib libraries are used in this script for data analysis and visualization.<br>
         • The script imports a csv file which contains data gathered from Inside Airbnb and outputs charts as well as textual statistics describing Airbnb’s based on location in NYC as well as many other factors.
     </p>
-    <p>
-        <strong>Personal Project | Sleeper: <a href="/sleeper"> NFL Injury Visualization</a></strong><br>
-        • Developed a dynamic web application using React to visualize and track injuries of NFL players, enhancing the understanding and analysis of injury patterns over seasons.<br>
-        • Utilized d3-scale for color scaling to visually represent the severity of injuries on a human silhouette, improving immediate visual feedback on injury hotspots.<br>
-        • Integrated data from multiple JSON sources (injuries.json and players.json) to provide a comprehensive dataset of player injuries and personal information.<br>
-        • Implemented a sophisticated search functionality to filter players by name using React's state management, allowing users to interactively select players and view specific injury data.<br>
-        • Created an interactive SVG overlay on a player silhouette to pinpoint injuries using coordinates mapped to body parts, facilitating an intuitive graphical user interface.<br>
-        • Employed lodash for enhanced state handling and performance optimizations, ensuring efficient data manipulation and rendering of components.<br>
-        • Designed a user interface that allows for quick toggling between players and injury details, featuring a real-time updating mechanism to reflect selected data.<br>
-        • Constructed a detailed injury log that displays occurrences, specific injury sites, and game status, offering detailed insights into player readiness and historical injury data.<br>
-        • Applied modern web technologies and frameworks, including CSS for styling and JavaScript for frontend logic, ensuring a responsive and visually appealing user experience.<br>
-    </p>
 
     <h2>WORK EXPERIENCE</h2>
     <p>
@@ -113,7 +113,6 @@
         • Data manipulation and modeling for James River account memo and Hartford Commercial Auto presentation<br>
         • Created 2 submissions from raw data given by a cedent, which contain various limit profiles used to break the data down into more meaningful information to present to clients
     </p>
-
     <p>
         <strong>Accounting Intern | Essential Utilities (Aqua America) | Bryn Mawr, PA</strong> Summer 2022<br>
         • Directly assisted and performed accounts payable and treasury department functions<br>
