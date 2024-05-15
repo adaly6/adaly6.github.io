@@ -64,7 +64,8 @@
         Anticipated Graduation: May 2024<br>
         B.B.A. Business Analytics and Information Systems<br>
         Economics Minor<br>
-        Cumulative GPA: 3.73
+        Cumulative GPA: 3.76 / 4.0
+        Major GPA: 4.0 / 4.0
     </p>
 
     <h2>TECHNICAL SKILLS</h2>
