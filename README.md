@@ -72,14 +72,16 @@
     <p>
         <strong>Programming / Tools:</strong> Python, R, SQL, JavaScript, Azure, GCP, AWS<br>
         <br>
-        <strong>Methodologies:</strong> Machine Learning, Deep Learning, Data Modeling, Data Wrangling, Feature Engineering, Predictive Modeling, A/B Testing, Statistical Analysis, Data Visualization, Model Deployment, Business Forecasting, Causal Inference
+        <strong>Methodologies:</strong> Machine Learning, Deep Learning, Data Modeling, Data Wrangling, Feature Engineering, Predictive Modeling, A/B Testing, Statistical Analysis, Data Visualization, Model Deployment, Business Forecasting, Causal Inference<br>
+        <br>
+        <strong>Certification:</strong><a href="https://www.credly.com/badges/8e0db952-45f1-494d-944b-33b3ed6e7a6d"> Azure Fundamentals</a><br>
     </p>
    
     <h2>PROJECT EXPERIENCE</h2>
 
     <p>
         <strong>Automated Decoder Application</strong><br>
-        • Developed a Python application to automate the process of gathering vehicle information from the NHTSA database. 
+        • Developed a Python application to automate the process of gathering vehicle information from the NHTSA database. <br>
         • Leveraged Selenium for web scraping to automate data collection on vehicle information, enhancing data collection efficiency for Brown & Riding Insurance company employees by over 1,500%, which exponentially increases turnover.<br> 
         • Implemented Flask to create a user interface for inputting VINs and retrieving detailed vehicle data. <br>
         • Employed Pandas for data transformation and processing, enabling real-time data validation and error handling. <br>
